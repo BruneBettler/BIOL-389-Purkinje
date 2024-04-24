@@ -1,0 +1,61 @@
+tuesday anterior ,,confidence 1-5,
+,cell 2-10,5,
+,,freq,26
+,,CV,0.3306
+,cell 11-20,4,
+,,freq,23
+,,CV,0.3128
+,cell 21-30,5,
+,,freq,37
+,,CV,0.2098
+,cell 121-130,3,
+,,freq,27
+,,CV,0.3068
+wednesday anterior ,,,
+,cell 31-40,5,
+,,freq,14
+,,CV,0.07346
+,cell 41-50,4,
+,,freq,16
+,,CV,0.09631
+,cell 61-70,5,
+,,freq,78
+,,CV,0.2008
+,cell 71-80,5,
+,,freq,51
+,,CV,0.08568
+,cell 81-90,5,
+,,freq,38
+,,CV,0.08978
+,cell 91-100,4,
+,,freq,44
+,,CV,0.0749
+tuesday posterior ,,,
+,cell 31-40,4,
+,,freq,11
+,,CV,0.208867
+,cell 41-50,2,
+,,freq,25
+,,CV,0.428
+,cell 51-60,,NA
+,,freq,NA
+,,CV,nA
+,cell 101-110,5,
+,,freq,8
+,,CV,0.381
+,cell 111-120,5,
+,,freq,9
+,,CV,1.10169
+wednesday posterior ,,,
+5,cell 1-10,5,
+,,freq,27
+,,CV,1.06758
+6,cell 101-110,3,
+,,freq,30
+,,CV,0.2071
+7,cell 111-120,3,
+,,freq,52
+,,CV,0.48246
+8,cell 121-130,3,
+,,freq,46
+,,CV,0.435346
